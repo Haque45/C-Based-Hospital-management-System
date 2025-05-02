@@ -1,0 +1,23 @@
+# Object files
+*.o
+
+# Compiled binaries
+*.out
+*.exe
+*.app
+
+# Debug and log files
+*.log
+*.tmp
+
+# MacOS system files
+.DS_Store
+
+# Backup files
+*~
+
+# VS Code settings (if you're using VS Code)
+.vscode/
+
+# Build folders (if using CMake or other tools)
+build/
